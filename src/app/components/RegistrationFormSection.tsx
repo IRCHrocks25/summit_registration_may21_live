@@ -154,7 +154,7 @@ export function RegistrationFormModal() {
               padding: "10px 12px",
             }}
           >
-            FREE 1-DAY VIRTUAL SUMMIT · AI AGENTS SUMMIT  | May 21, 2026 | 9AM UK / 10AM CET | REGISTER NOW - SEATS ARE LIMITED
+            FREE 1-DAY VIRTUAL SUMMIT · AI AGENTS SUMMIT  | May 21, 2026 | 9AM Pacific | REGISTER NOW - SEATS ARE LIMITED
           </div>
           <div
             style={{
@@ -186,7 +186,7 @@ export function RegistrationFormModal() {
                 marginBottom: "12px",
               }}
             >
-              9AM UK / 10AM CET
+              9AM Pacific
             </p>
             <div className="flex items-center justify-center gap-3.5">
               {[
