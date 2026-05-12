@@ -90,7 +90,7 @@ const SLIDES = [
   slide8,
   slide9,
 ];
-const WEBINAR_DATE = new Date("2026-05-07T19:00:00Z");
+const WEBINAR_DATE = new Date("2026-05-20T19:00:00Z");
 
 /* ─── RESPONSIVE HOOK ─────────────────────────────────────────── */
 function useWindowWidth() {
