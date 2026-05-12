@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Cred from "../../imports/Cred";
 
 function CountdownTimer() {
-  const targetDate = new Date("2026-05-14T09:00:00+01:00");
+  const targetDate = new Date("2026-05-21T09:00:00+01:00");
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
   const [expired, setExpired] = useState(false);
 

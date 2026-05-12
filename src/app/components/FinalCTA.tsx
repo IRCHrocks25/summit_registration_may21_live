@@ -3,7 +3,7 @@ import { Shield, Users, CheckCircle } from "lucide-react";
 import bgImage from "figma:asset/4481ebc46d957e81b10819e084552dae04c662fe.png";
 
 function Countdown() {
-  const targetDate = new Date("2026-05-14T09:00:00+01:00");
+  const targetDate = new Date("2026-05-21T09:00:00+01:00");
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   useEffect(() => {
