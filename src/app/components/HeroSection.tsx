@@ -177,7 +177,7 @@ export function HeroSection() {
                 PREVIEW
               </div>
               <iframe
-                src="https://drive.google.com/file/d/1ZVzIxJjkxazV5ZQhv3DJTwlrmdZZEIqb/preview"
+                src="https://www.youtube.com/embed/V0PwoWuwKsU"
                 title="Summit Preview"
                 allow="autoplay; fullscreen"
                 allowFullScreen
